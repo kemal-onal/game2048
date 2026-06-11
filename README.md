@@ -27,3 +27,10 @@ You can also use the verification script:
 ```
 
 Generated build folders and compiled binaries should not be committed.
+
+## Installation
+Clone the repository to your local environment:
+```bash
+git clone [https://github.com/kemal-onal/game2048.git](https://github.com/kemal-onal/game2048.git)
+cd game2048
+```
