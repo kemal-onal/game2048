@@ -1,6 +1,6 @@
 # 2048
 
-This repository contains a Qt Widgets implementation of the 2048 game for CmpE 230 Project 3. The game supports Normal, Unlimited, and Hard modes, score and best score tracking, Undo, Restart, and configurable board and tile-generation constants.
+This repository contains a Qt Widgets implementation of the 2048 game. The game supports Normal, Unlimited, and Hard modes, score and best score tracking, Undo, Restart, and configurable board and tile-generation constants.
 
 The main source files are under `src/`:
 
